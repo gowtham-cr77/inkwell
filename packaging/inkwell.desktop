@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Inkwell
+GenericName=Handwritten Note-Taking & PDF Annotation
+Comment=Distraction-free handwritten digital notebook and PDF annotation tool for Linux
+Exec=inkwell %F
+Icon=inkwell
+Terminal=false
+Categories=Office;Education;Graphics;VectorGraphics;
+MimeType=application/x-inkwell;application/pdf;
+Keywords=notes;handwriting;ink;stylus;huion;wacom;tablet;pdf;sketch;draw;goodnotes;notability;noteastic;
+StartupNotify=true
+StartupWMClass=inkwell
+X-KDE-SubstituteUID=false

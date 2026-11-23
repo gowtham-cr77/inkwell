@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/pages/LibraryPage.qml</file>
+        <file>qml/pages/EditorPage.qml</file>
+        <file>qml/components/Toolbar.qml</file>
+        <file>qml/components/PageNavigator.qml</file>
+        <file>qml/components/ColorPicker.qml</file>
+        <file>qml/components/PenSettingsPopup.qml</file>
+        <file>qml/components/ShapePickerPopup.qml</file>
+        <file>qml/components/LaserSettingsPopup.qml</file>
+        <file>qml/components/PaperSettingsPopup.qml</file>
+        <file>qml/components/LassoSettingsPopup.qml</file>
+        <file>qml/components/ZoomControls.qml</file>
+        <file>qml/dialogs/SettingsDialog.qml</file>
+        <file>qml/dialogs/PdfExportDialog.qml</file>
+        <file>resources/icons/inkwell.svg</file>
+    </qresource>
+</RCC>
